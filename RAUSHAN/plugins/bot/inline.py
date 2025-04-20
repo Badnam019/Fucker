@@ -64,12 +64,12 @@ async def alive_function(message: Message, answers):
         InlineQueryResultArticle(
             title="Alive",
             description="Check Bot's Stats",
-            thumb_url="https://files.catbox.moe/kfg4e6.jpg",
+            thumb_url="https://files.catbox.moe/bcui41.jpg",
             input_message_content=InputTextMessageContent(
                 msg, parse_mode=ParseMode.HTML, disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("──「 𝗔𝗟𝗣𝗛𝗔-𝗕𝗔𝗕𝗬 」──", callback_data="helper")]]
+                [[InlineKeyboardButton("──「 𝗕𝗔𝗗𝗡𝗔𝗠-𝗕𝗔𝗕𝗬 」──", callback_data="helper")]]
             ),
         )
     )
