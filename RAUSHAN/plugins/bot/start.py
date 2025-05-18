@@ -16,11 +16,11 @@ PHONE_NUMBER_TEXT = (
 async def hello(client: app, message):
     buttons = [
            [
-                InlineKeyboardButton("˹ 𝗢𝗪𝗡𝗘𝗥 ˼", url="https://t.me/TEAM_BADNAM_BOTS"),
+                InlineKeyboardButton("˹ 𝗢𝗪𝗡𝗘𝗥 ˼", url="https://t.me/lll_BADNAM_BABY_lll"),
                 InlineKeyboardButton("˹ 𝗨𝗣𝗗𝗔𝗧𝗘 ˼", url="https://t.me/KRITI_UPDATE"),
             ],
             [
-                InlineKeyboardButton("˹ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 ˼", url="https://t.me/TEAM_BADNAM_BOTS"),
+                InlineKeyboardButton("˹ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 ˼", url="https://t.me/lll_BADNAM_BABY_lll"),
                 InlineKeyboardButton("˹ 𝗠𝗨𝗦𝗜𝗖 ˼", url="https://t.me/kriti_xmusic_bot"),
             ],
             ]
